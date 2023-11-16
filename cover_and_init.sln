@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cover_and_init", "cover_and_init\cover_and_init.csproj", "{06DB346D-23B3-40D1-814E-859957D11342}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cover_installer", "Cover_installer\Cover_installer.vdproj", "{C3078E7D-0D93-4DC9-B420-87E9C474C64E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06DB346D-23B3-40D1-814E-859957D11342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06DB346D-23B3-40D1-814E-859957D11342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06DB346D-23B3-40D1-814E-859957D11342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06DB346D-23B3-40D1-814E-859957D11342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3078E7D-0D93-4DC9-B420-87E9C474C64E}.Debug|Any CPU.ActiveCfg = Debug
+		{C3078E7D-0D93-4DC9-B420-87E9C474C64E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AAFBA4F-F9B0-4A20-BB04-709FB817EA2A}
+	EndGlobalSection
+EndGlobal
